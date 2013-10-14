@@ -1,0 +1,15 @@
+f:\my documents\visual studio 2010\Projects\MassRename\MassRename\bin\Debug\MassRename.exe
+f:\my documents\visual studio 2010\Projects\MassRename\MassRename\bin\Debug\MassRename.pdb
+f:\my documents\visual studio 2010\Projects\MassRename\MassRename\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\my documents\visual studio 2010\Projects\MassRename\MassRename\obj\x86\Debug\MassRename.Form1.resources
+f:\my documents\visual studio 2010\Projects\MassRename\MassRename\obj\x86\Debug\MassRename.Properties.Resources.resources
+f:\my documents\visual studio 2010\Projects\MassRename\MassRename\obj\x86\Debug\GenerateResource.read.1.tlog
+f:\my documents\visual studio 2010\Projects\MassRename\MassRename\obj\x86\Debug\GenerateResource.write.1.tlog
+f:\my documents\visual studio 2010\Projects\MassRename\MassRename\obj\x86\Debug\MassRename.exe
+f:\my documents\visual studio 2010\Projects\MassRename\MassRename\obj\x86\Debug\MassRename.pdb
+f:\my documents\visual studio 2010\Projects\MassRename\MassRename\bin\Debug\MassRename.exe.manifest
+f:\my documents\visual studio 2010\Projects\MassRename\MassRename\bin\Debug\MassRename.application
+f:\my documents\visual studio 2010\Projects\MassRename\MassRename\obj\x86\Debug\MassRename.exe.manifest
+f:\my documents\visual studio 2010\Projects\MassRename\MassRename\obj\x86\Debug\MassRename.application
+F:\Work\MassRename\MassRename\obj\x86\Debug\MassRename.exe
+F:\Work\MassRename\MassRename\obj\x86\Debug\MassRename.pdb
